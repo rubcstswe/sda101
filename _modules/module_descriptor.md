@@ -87,39 +87,61 @@ The students will be assessed based on their understanding of the whole contents
 
 Unit VI: Front-End Development for UI
 
+
 Subject Matter:
 --
 
 Unit I: Introduction to User Research & Experience Design
 --
 1.1 Usability, Learnability, Visibility, Efficiency
+
 1.2 Errors and user feedback
+
 1.3 Understanding user needs and goals, crafting user persona’s
+
 1.4 Conducting user research and personas
+
 1.5 Information architecture and content strategy
 
 Unit II: Laws of UX
 --
 2.1 Fitts's Law and its application in UI design
+
+
 2.2 Hick's Law and its impact on decision-making in UX
+
 2.3 Miller's Law and designing for human memory limitations
+
 2.4 Tesler's Law and the importance of simplicity in UI design
+
 2.5 Jakob's Law and considering familiar design patterns
+
 2.6 Postel's Law and the role of tolerance in UX design
+
 2.7 The Peak-End Rule and creating memorable user experiences
+
 2.8 The Aesthetic-Usability Effect and balancing aesthetics and functionality
+
 2.9 The von Restorff Effect and creating visual distinction for key elements
+
 2.10 The Doherty Threshold and designing for user flow and productivity
 
 Unit lll: Visual Design Principles
 --
 3.1 Applying the principles of visual hierarchy in UI design
+
 3.2 Effective use of typography and font pairing techniques
+
 3.3 Color theory and creating harmonious color palettes
+
 3.4 Using spacing and layout to create balance and rhythm
+
 3.5 Designing with contrast and emphasis
+
 3.6 Utilizing whitespace and simplicity for cleaner designs
+
 3.7 Applying grid systems and alignment techniques
+
 3.8 Microinteractions
 
 Unit lV: Designing for Responsive Web Interfaces
