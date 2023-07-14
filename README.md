@@ -31,14 +31,8 @@ _On completion of the module, students will be able to:_
 
 Learning and Teaching Approach
 --
-
-| Type | Approach | Hours per week | Credit Hours |
-|------|----------|----------------|--------------|
-| Contact | Lecture | 2 | 30 |
-|         | Practical | 2 | 2 | 30 |
-| Independent Study | Practical Assignment | 2 | 30 |
-|         | Self Study | 2 | 2 | 30 |
-|         | Total | 8 | 120 |
+ Contact Hours : 60 hours
+ Independent Study : 60 hours
 
 Assessment approach:
 --
