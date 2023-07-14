@@ -33,7 +33,7 @@ Learning and Teaching Approach
 |         | Practical | 2 | 2 | 30 |
 | Independent Study | Practical Assignment | 2 | 30 |
 |         | Self Study | 2 | 2 | 30 |
-|         |  Total | 8 | 120 |
+|          Total | 8 | 120 |
 
 
 
