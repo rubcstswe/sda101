@@ -1,8 +1,8 @@
 ---
-title: Introduction to Java
+title: User Interface Design and Implementation
 ---
 
-Sep 28
+24th July - 28th July
 : [Java & Git](#)
   : [1.1](#)
 
