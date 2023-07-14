@@ -1,5 +1,5 @@
 ---
-title: User Interface Design and Implementation
+title: Unit I: Introduction to User Research & Experience Design
 ---
 
 24th July - 28th July 
