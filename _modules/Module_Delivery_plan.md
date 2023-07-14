@@ -1,5 +1,5 @@
 ---
-title:Module Delivery Plan
+TITLE: Module Delivery Plan
 ---
 
 Week 1
