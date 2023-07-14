@@ -1,17 +1,54 @@
 ---
-title: Unit II - Laws of UX
+Module Code and Title	:	SDA101 User Interface Design and Implementation
+Programme			:	BE Software Engineering
+Credit				:	12
+Module Coordinator		:	Sonam Yangchen
+Module Tutor			:	Sonam Yangchen & Tashi Pelden
 ---
 
-31st July - 4th August 
+General Objectives 
 --
+This module serves as an introduction to the field of User Interface & User Experience (UI/UX), encompassing the study, planning, and design of interactions between users and computers, with the goal of enhancing the resulting user experience. It provides a comprehensive overview of key concepts, theories, and principles related to the human aspect, technical aspects, and the interaction (interface) between human and machine. Moreover, it explores the process involved in designing user experiences, combining both theoretical knowledge and practical application. Throughout the module, students will delve into fundamental principles, design guidelines, prototyping techniques, evaluation methods, and the usage of software tools. By covering a wide range of topics, this module equips learners with a well-rounded understanding of UX design, empowering them to create effective and user-centric interfaces in modern computing environments.
 
-2.1 Fitts's Law and its application in UI design
+Learning Outcomes
+--
+_On completion of the module, students will be able to:_
+Understand the principles of user research and experience design
+Infer and synthesize user needs and goals and create detailed and accurate user personas.
+Apply the laws of UX to enhance the overall user experience.
+Implement the laws of UX in practical scenarios to optimize UI design and enhance decision-making in UX.
+Apply visual design principles to effectively and aesthetically design user interfaces that are visually appealing and enhance usability.
+Employ microinteractions through animation feedback to create intuitive user experiences 
+Evaluate and analyze UI designs by employing established evaluation techniques
+Design and develop a static web application.
 
-2.2 Hick's Law and its impact on decision-making in UX
+Learning and Teaching Approach
+---
+Type
+Approach
+Hours per week
+Credit hours
+Contact
+Lecture
+2
+30
+Practical
+2
+30
+Independent Study
+Practical Assignment
+2
+30
+Self Study
+2
+30
+Total
+8
+120
+---
 
-2.3 Miller's Law and designing for human memory limitations
 
-2.4 Tesler's Law and the importance of simplicity in UI design
 
-2.5 Jakob's Law and considering familiar design patterns
+
+
 
