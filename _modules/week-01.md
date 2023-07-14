@@ -2,6 +2,10 @@
 title: User Interface Design and Implementation
 ---
 
+--
+24th July - 28th July 
+--
+
 1.1: Usability, Learnability, Visibility, Efficiency
 
 1.2: Errors and user feedback
@@ -12,6 +16,6 @@ title: User Interface Design and Implementation
 
 1.5: Information architecture and content strategy
 
----
-Tasks: Brainstorming of project topics
----
+
+Tasks : Brainstorming of project topics
+
