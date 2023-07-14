@@ -1,23 +1,16 @@
+title: Unit II - Laws of UX
 ---
-title: Basic Data Structures
----
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+31st July - 4th August 
+--
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+2.1 Fitts's Law and its application in UI design
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+2.2 Hick's Law and its impact on decision-making in UX
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+2.3 Miller's Law and designing for human memory limitations
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+2.4 Tesler's Law and the importance of simplicity in UI design
+
+2.5 Jakob's Law and considering familiar design patterns
+
