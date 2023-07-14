@@ -2,7 +2,7 @@
 title:Module Delivery Plan
 ---
 
----
+
 Week 1
 24th July - 28th July 
 -
@@ -17,6 +17,5 @@ Week 1
 
 1.5: Information architecture and content strategy
 
-
-Tasks : Brainstorming of project topics
+  Tasks : Brainstorming of project topics
 
