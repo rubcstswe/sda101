@@ -19,6 +19,7 @@ This module serves as an introduction to the field of User Interface & User Expe
 Learning Outcomes
 --
 _On completion of the module, students will be able to:_
+
     1. Understand the principles of user research and experience design
     2. Infer and synthesize user needs and goals and create detailed and accurate user personas.
     3. Apply the laws of UX to enhance the overall user experience.
@@ -30,6 +31,7 @@ _On completion of the module, students will be able to:_
 
 Learning and Teaching Approach
 --
+
 | Type | Approach | Hours per week | Credit Hours |
 |------|----------|----------------|--------------|
 | Contact | Lecture | 2 | 30 |
@@ -41,7 +43,7 @@ Learning and Teaching Approach
 Assessment approach:
 --
 1 Examination (Theory)
---
+   --
 
 1.1 Midterm Assessment
 --
@@ -49,21 +51,25 @@ Closed book, one hour duration in 7th  week
     
 Written Examination: Closed book, one hour duration in 7th week (15 marks)
     
-In the 7th week of the course, students will take a closed-book exam. The exam will have a     duration of one hour and will assess their understanding of the theoretical concepts           covered in the course. The quiz will be graded out of 100, and the marks will be allocated     based on the following criteria:
+In the 7th week of the course, students will take a closed-book exam. The exam will have a duration of one hour and will assess their understanding of the theoretical concepts covered in the course. The quiz will be graded out of 100, and the marks will be allocated based on the following criteria:
      1. Accuracy and completeness of answers
      2. Understanding of  the principles of user research and experience design
-     3. Inference and the synthesis of  user needs and goals to create the  detailed and                accurate user personas.
+     3. Inference and the synthesis of  user needs and goals to create the  detailed and accurate user personas.
      4. Application of  the laws of UX to enhance the overall user experience
   
 2 Continuous Assessment ( Practical )
 --
-Throughout the course, students will be given four practical assignments and one final         project to assess their practical skills in understanding the principles of UIUX design.       The assignments will involve hands-on tasks related to web design.
+Throughout the course, students will be given four practical assignments and one final project to assess their practical skills in understanding the principles of UIUX design. The assignments will involve hands-on tasks related to web design.
 
 The practical assignments will be assessed based on the following criteria:
+
    1. Correct implementation of principles and laws of UX to enhance the overall user   experience.
-   2. Creation of engaging and interactive user experiences.
-   3. Evaluation and analyzation of UI designs by employing established evaluation                    techniques.
-   4. Create semantically structured web pages with advanced styling
+      
+   3. Creation of engaging and interactive user experiences.
+      
+   5. Evaluation and analyzation of UI designs by employing established evaluation techniques.
+      
+   7. Create semantically structured web pages with advanced styling
 
 2.1 Practical Assignment I (10 marks):
    -- 
