@@ -1,7 +1,11 @@
 Module Code and Title	:	SDA101 User Interface Design and Implementation
+--
 Programme			:	BE Software Engineering
+--
 Credit				:	12
+--
 Module Coordinator		:	Sonam Yangchen
+--
 Module Tutor			:	Sonam Yangchen & Tashi Pelden
 --
 
