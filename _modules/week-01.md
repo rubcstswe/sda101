@@ -2,22 +2,10 @@
 title: User Interface Design and Implementation
 ---
 
-24th July - 28th July
-: [Java & Git](#)
-  : [1.1](#)
+1.1 Usability, Learnability, Visibility, Efficiency
+1.2 Errors and user feedback
+1.3 Understanding user needs and goals, crafting user persona’s
+1.4 Conducting user research and personas
+1.5 Information architecture and content strategy
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Tasks: Brainstorming of project topics
