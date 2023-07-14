@@ -30,13 +30,9 @@ Learning and Teaching Approach
 | Type | Approach | Hours per week | Credit Hours |
 |------|----------|----------------|--------------|
 | Contact | Lecture | 2 | 30 |
-          |---------|---|----|
           | Practical | 2 | 2 | 30 |
-|---------|--------|---------------|--------------|
 | Independent Study | Practical Assignment | 2 | 30 |
-          |---------|---|----|
           | Self Study | 2 | 2 | 30 |
-|---------|--------|---------------|--------------|
 |            Total | 8 | 120 |
 
 
