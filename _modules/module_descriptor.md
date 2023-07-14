@@ -13,38 +13,22 @@ This module serves as an introduction to the field of User Interface & User Expe
 Learning Outcomes
 --
 _On completion of the module, students will be able to:_
-Understand the principles of user research and experience design
-Infer and synthesize user needs and goals and create detailed and accurate user personas.
-Apply the laws of UX to enhance the overall user experience.
-Implement the laws of UX in practical scenarios to optimize UI design and enhance decision-making in UX.
-Apply visual design principles to effectively and aesthetically design user interfaces that are visually appealing and enhance usability.
-Employ microinteractions through animation feedback to create intuitive user experiences 
-Evaluate and analyze UI designs by employing established evaluation techniques
-Design and develop a static web application.
+1. Understand the principles of user research and experience design
+2. Infer and synthesize user needs and goals and create detailed and accurate user personas.
+3. Apply the laws of UX to enhance the overall user experience.
+4. Implement the laws of UX in practical scenarios to optimize UI design and enhance decision-making in UX.
+5. Apply visual design principles to effectively and aesthetically design user interfaces that are visually appealing and enhance usability.
+6. Employ microinteractions through animation feedback to create intuitive user experiences 
+7. Evaluate and analyze UI designs by employing established evaluation techniques
+8. Design and develop a static web application.
 
 Learning and Teaching Approach
 ---
-Type
-Approach
-Hours per week
-Credit hours
-Contact
-Lecture
-2
-30
-Practical
-2
-30
-Independent Study
-Practical Assignment
-2
-30
-Self Study
-2
-30
-Total
-8
-120
+Type : Contact : Independent Study
+Approach : Lecture : Practical : Practical Assignment : Self Study
+Hours per week : 2 : 2 : 2 : 2
+Credit hours : 30 : 30 : 30 : 30
+Total : 8 : 120
 ---
 
 
