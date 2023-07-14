@@ -54,20 +54,20 @@ Assessment approach:
     4. Application of  the laws of UX to enhance the overall user experience
   
 2. Continuous Assessment ( Practical )
-    --
-      Throughout the course, students will be given four practical assignments and one final          project to assess their practical skills in understanding the principles of UIUX design.        The assignments will involve hands-on tasks related to web design.
-      
-      The practical assignments will be assessed based on the following criteria:
-        1. Correct implementation of principles and laws of UX to enhance the overall user                 experience.
-        2. Creation of engaging and interactive user experiences. 
-        3. Evaluation and analyzation of UI designs by employing established evaluation                    techniques.
-         4. Create semantically structured web pages with advanced styling
+--
+Throughout the course, students will be given four practical assignments and one final          project to assess their practical skills in understanding the principles of UIUX design.        The assignments will involve hands-on tasks related to web design.
+
+The practical assignments will be assessed based on the following criteria:
+   1. Correct implementation of principles and laws of UX to enhance the overall user   experience.
+   2. Creation of engaging and interactive user experiences.
+   3. Evaluation and analyzation of UI designs by employing established evaluation                    techniques.
+   4. Create semantically structured web pages with advanced styling
 
    2.1 Practical Assignment I (10 marks):
    -- 
-      The students will be assessed based on their understanding of the following two units:
-      Unit I: Introduction to User Research & Experience Design
-      Unit II: Laws of UX
+   The students will be assessed based on their understanding of the following two units:
+   Unit I: Introduction to User Research & Experience Design 
+   Unit II: Laws of UX
 
 
     
