@@ -33,7 +33,25 @@ Learning and Teaching Approach
 |         | Practical | 2 | 2 | 30 |
 | Independent Study | Practical Assignment | 2 | 30 |
 |         | Self Study | 2 | 2 | 30 |
-|          Total | 8 | 120 |
+|         | Total | 8 | 120 |
+
+Assessment approach:
+--
+| SI. No. | Mode of Assessment | Nos. | Marks allocated | Marks (%) |
+|------|----------|----------------|--------------|------|
+| 1 | Examination (Theory) |
+| 1.1 | Midterm Assessment : 
+
+Closed book, one hour duration in 7th  week
+
+Written Examination: Closed book, one hour duration in 7th week.
+
+In the 7th week of the course, students will take a closed-book exam. The exam will have a duration of one hour and will assess their understanding of the theoretical concepts covered in the course. The quiz will be graded out of 100, and the marks will be allocated based on the following criteria:
+
+Accuracy and completeness of answers
+Understanding of  the principles of user research and experience design
+Inference and the synthesis of  user needs and goals to create the  detailed and accurate user personas.
+Application of  the laws of UX to enhance the overall user experience | 1 | 15 | 15 |
 
 
 
