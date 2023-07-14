@@ -52,7 +52,7 @@ Tasks : Submission of project topic
 
 
 Week 4
-14th August - 18th August 
+: 14th August - 18th August 
 -
 
 (Implemention of the laws of UX in practical scenarios to optimize UI design and enhance decision-making in UX.)
@@ -61,7 +61,7 @@ Tasks : Practical Assignment I
 
 
 Week 5
-21st August - 25th August 
+: 21st August - 25th August 
 -
 
 3.1 Applying the principles of visual hierarchy in UI design
@@ -72,7 +72,7 @@ Week 5
 
 
 Week 6
-28th August - 1st September
+: 28th August - 1st September
 -
 
 3.4 Using spacing and layout to create balance and rhythm
@@ -87,7 +87,7 @@ Tasks : Practical Assignment II
 
 
 Week 7
-4th September - 8th September
+: 4th September - 8th September
 -
 
 3.8 Microinteractions and animations
@@ -96,7 +96,7 @@ Tasks : Term Test
 
 
 Week 8
-11th September - 15th September
+: 11th September - 15th September
 -
 
 4.1 Usability testing methodologies and tools
@@ -111,7 +111,7 @@ Tasks : Practical Asisgnment III
 
 
 Week 9
-18th September - 22nd September
+: 18th September - 22nd September
 -
 
 5.1 HTML5 and semantic markup
@@ -122,25 +122,24 @@ Week 9
 
 
 Week 10
-25th September - 29th September
+: 25th September - 29th September
 -
 
 5.4 Integrating UI design with frameworks and libraries
 
 
 Week 11
-2nd October - 6th October 
+: 2nd October - 6th October 
 -
 
-(Continuation)
-
-5.4 Integrating UI design with frameworks and libraries
+(Continuation) 
+: 5.4 Integrating UI design with frameworks and libraries
 
 Tasks : Practical Assignment IV
 
 
 Week 12 
-9th October - 13th October
+: 9th October - 13th October
 -
 
 6.1 Understanding the principles of Flutter design
@@ -151,7 +150,7 @@ Week 12
 
 
 Week 13
-16th October - 20th October 
+: 16th October - 20th October 
 -
 
 6.4 Optimizing touch interactions and gestures
