@@ -174,11 +174,11 @@ Unit VI: Front-End Development for UI
 
 Essential Reading
 --
-Jon Yablonski, Laws of UX: Using Psychology to Design Better Products & Services, 1st Edition(2020), O'Reilly Media, ISBN: 978-1492055310
-
-Adam Wathan & Steve Schoger, Refactoring UI (2020), TailwindCSS
-
-Jake Knapp, Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, Unabridged Edition (2016)Simon & Schuster Audio; ISBN: 9781442397682
+    Jon Yablonski, Laws of UX: Using Psychology to Design Better Products & Services, 1st Edition(2020), O'Reilly Media, ISBN: 978-1492055310
+    
+    Adam Wathan & Steve Schoger, Refactoring UI (2020), TailwindCSS
+    
+    Jake Knapp, Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, Unabridged Edition (2016)Simon & Schuster Audio; ISBN: 9781442397682
 
 
 
