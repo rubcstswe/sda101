@@ -40,7 +40,7 @@ Assessment approach:
 | SI. No. | Mode of Assessment | Nos. | Marks allocated | Marks (%) |
 |------|----------|----------------|--------------|------|
 | 1 | Examination (Theory) |
-| 1.1 | Midterm Assessment : 
+| 1.1 | Midterm Assessment 
 
 Closed book, one hour duration in 7th  week
 
