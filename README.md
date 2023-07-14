@@ -32,14 +32,15 @@ _On completion of the module, students will be able to:_
 Learning and Teaching Approach
 --
  Contact Hours : 60 hours
+ 
  Independent Study : 60 hours
 
 Assessment approach:
 --
 1 Examination (Theory)
-   --
+--
 
-1.1 Midterm Assessment
+_1.1 Midterm Assessment_
 --
 Closed book, one hour duration in 7th  week
     
@@ -65,7 +66,7 @@ The practical assignments will be assessed based on the following criteria:
       
    7. Create semantically structured web pages with advanced styling
 
-2.1 Practical Assignment I (10 marks):
+_2.1 Practical Assignment I (10 marks):_
    -- 
 The students will be assessed based on their understanding of the following two units:
 
@@ -73,7 +74,7 @@ Unit I: Introduction to User Research & Experience Design
 
 Unit II: Laws of UX
 
-2.2 Practical Assignment II, III, IV (15 marks each):
+_2.2 Practical Assignment II, III, IV (15 marks each):_
 --
 The students will be assessed based on their understanding of the following two units:
 
@@ -83,7 +84,7 @@ Unit lV: Designing for Responsive Web Interfaces
 
 Unit V: Design Sprint & User Experience Evaluation
 
-Final Project Assessment (30 marks):
+_2.3 Final Project Assessment (30 marks):_
 --
 The students will be assessed based on their understanding of the whole contents of the syllabus through the assessment of the following unit:
 
