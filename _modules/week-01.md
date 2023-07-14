@@ -2,9 +2,8 @@
 title: User Interface Design and Implementation
 ---
 
---
 24th July - 28th July 
---
+-
 
 1.1: Usability, Learnability, Visibility, Efficiency
 
