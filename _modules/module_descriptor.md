@@ -147,28 +147,39 @@ Unit lll: Visual Design Principles
 Unit lV: Designing for Responsive Web Interfaces
 --
 4.1 Understanding the principles of responsive mobile web design
+
 4.2 Adapting UI design for different screen sizes and orientations
+
 4.3 Creating responsive layouts and fluid grids
+
 4.4 Designing mobile navigation and menu patterns
 
 Unit V: Design Sprint & User Experience Evaluation
 --
 5.1 Usability testing methodologies and tools
+
 5.2 User experience metrics and key performance indicators (KPIs)
+
 5.3 User feedback and surveys
+
 5.4 Continuous improvement and user-centered design cycles
 
 Unit VI: Front-End Development for UI
 --
 6.1 HTML5 and semantic markup
+
 6.2 CSS3 and advanced styling techniques
+
 6.3 Responsive web design and media queries
+
 6.4 Integrating UI design with frameworks and libraries
 
 Essential Reading
 --
 Jon Yablonski, Laws of UX: Using Psychology to Design Better Products & Services, 1st Edition(2020), O'Reilly Media, ISBN: 978-1492055310
+
 Adam Wathan & Steve Schoger, Refactoring UI (2020), TailwindCSS
+
 Jake Knapp, Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days, Unabridged Edition (2016)Simon & Schuster Audio; ISBN: 9781442397682
 
 
