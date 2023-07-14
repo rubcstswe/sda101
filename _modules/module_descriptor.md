@@ -1,10 +1,10 @@
----
+--
 Module Code and Title	:	SDA101 User Interface Design and Implementation
 Programme			:	BE Software Engineering
 Credit				:	12
 Module Coordinator		:	Sonam Yangchen
 Module Tutor			:	Sonam Yangchen & Tashi Pelden
----
+--
 
 General Objectives 
 --
@@ -24,11 +24,6 @@ _On completion of the module, students will be able to:_
 
 Learning and Teaching Approach
 ---
-Type : Contact : Independent Study
-Approach : Lecture : Practical : Practical Assignment : Self Study
-Hours per week : 2 : 2 : 2 : 2
-Credit hours : 30 : 30 : 30 : 30
-Total : 8 : 120
 ---
 
 
