@@ -1,9 +1,6 @@
 ---
-name: Really Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Yeshi Lhazom
+role: Visiting Faculty
+email: yeshilhazom.gcbs@rub.edu.bt
 ---
 
-I like teaching Computer Science!
