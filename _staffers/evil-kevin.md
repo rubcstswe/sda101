@@ -1,9 +1,8 @@
 ---
-name: Evil Kevin
+name: Sonam Yangchen
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email: sonamyangchen.cst@rub.edu.bt
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+
