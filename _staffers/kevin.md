@@ -1,11 +1,8 @@
 ---
-name: Kevin Lin
+name: Douglas Sim
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: douglas.cst@rub.edu.bt
 photo: kevin.jpg
-meta:
-  Office Hours: Somewhere on the internet
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
