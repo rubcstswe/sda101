@@ -1,6 +1,6 @@
 ---
 name: Tashi Pelden
-role: Teaching Assistant
+role: Tutor
 email: tashipelden.cst@rub.edu.bt
 ---
 
