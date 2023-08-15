@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Module Delivery Plan
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Module Delivery Plan
 
 {% for module in site.modules %}
 {{ module }}
