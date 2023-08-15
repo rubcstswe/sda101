@@ -1,6 +1,6 @@
 ---
 name: Sonam Yangchen
-role: Teaching Assistant
+role: Tutor
 email: sonamyangchen.cst@rub.edu.bt
 ---
 
