@@ -1,6 +1,6 @@
 ---
 name: Douglas Sim
-role: Instructor
+role: Tutor
 email: douglas.cst@rub.edu.bt
 ---
 
